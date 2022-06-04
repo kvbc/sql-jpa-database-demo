@@ -1,6 +1,5 @@
 # sql-jpa-database-demo
 
-Technologies:
 - Java
 - JPA
 - MySQL 8
@@ -8,3 +7,5 @@ Technologies:
 - Hibernate
 - Lombok
 - Maven
+- MVC
+- REST
