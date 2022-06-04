@@ -1,0 +1,1 @@
+curl -X PUT -H "Content-Type: application/json" -d "{\"id\":%1,\"name\":\"%2\",\"email\":\"%3\"}" http://localhost:8080/api/user
