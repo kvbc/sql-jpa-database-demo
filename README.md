@@ -9,3 +9,5 @@
 - Maven
 - MVC
 - REST
+
+`http://localhost:8080/api/user`
