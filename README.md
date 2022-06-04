@@ -7,3 +7,4 @@ Technologies:
 - Spring
 - Hibernate
 - Lombok
+- Maven
